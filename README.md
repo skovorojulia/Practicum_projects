@@ -9,4 +9,4 @@
 * Выявлена высокая доля **стратегических поглощений** с нулевой стоимостью, что важно учитывать при оценке инвестиционных рисков.
 * **Инструменты:** Python, pandas, seaborn, matplotlib.
 
-[**Перейти к проекту**](https://github.com/skovorojulka/Practicum_projects/tree/main/startup_research)
+[**Перейти к проекту**](https://github.com/skovorojulia/Practicum_projects/tree/main/startup_research)
